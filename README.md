@@ -53,4 +53,11 @@ It is ready to be installed on any android device or android emulator.
 	
 	- Open the file and select Package installer, the application will automatically install 
   (You may have to give permission in the setting to allow installation)
+  
+# Downloads
+
+Android APK:	https://drive.google.com/open?id=1l_Zhgeq07ksGY9wtK3jWgYt1TNsRTr9B
+
+Project zip:	https://drive.google.com/open?id=1yx0OsqWdE3zfldCOClXmuuyUbfuwevgJ
+	
 	  
