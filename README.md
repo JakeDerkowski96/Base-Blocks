@@ -3,7 +3,13 @@
 Details and Download/installation instructions are as follows:
 
 # Contributors
-Chris Burns, Jake Derkowski, Toyo Udosen, Victor Vazquez
+Chris Burns https://github.com/ChrisLBurns
+
+Jake Derkowski https://github.com/JakeDerkowski96
+
+Toyo Udosen https://github.com/tyudosen
+
+Victor Vazquez
 
 #  Contents
 	- Final Report
