@@ -1,6 +1,6 @@
 # Base-Blocks
 
-Base_Blocks-Software_Engineering Sam Houston State University Software Engineering project - a recreation of a math-learning game specifically designed for mobile devices. Details and Download/installation instructions are as follows:
+Details and Download/installation instructions are as follows:
 
 # Contributors
 Chris Burns, Jake Derkowski, Toyo Udosen, Victor Vazquez
@@ -31,16 +31,21 @@ Chris Burns, Jake Derkowski, Toyo Udosen, Victor Vazquez
 	- Double click the project to open
 	
 
-The C# Scripts file includes copies of all the c# code that makes up Base Blocks. There are multpile C# scripts that make
-up each scene of the 9 scene application. For orginzational purposes the scripts are organized by scenes.
+The C# Scripts file includes copies of all the c# code that makes up Base Blocks. 
+There are multpile C# scripts that make up each scene of the 9 scene application. 
+For orginzational purposes the scripts are organized by scenes.
 
-The Android Build file is an apk file. It is ready to be installed on any android device or android emulator. 
-For emulator:
+The Android Build file is an apk file. 
+It is ready to be installed on any android device or android emulator. 
+
+# For emulator
+	
 	- Base Blocks was tested on Android Studio, but any android emulator should work
 	
 	- For best results have the android device be an android 10.0 and with an API of 29
 	
-	- To install on the emulator; start the emulator and drag/drop the apk file on the emulator. The file will automatically install.
+	- To install on the emulator; start the emulator and drag/drop the apk file on the emulator. 
+	The file will automatically install.
 	  
 # Android 
 
